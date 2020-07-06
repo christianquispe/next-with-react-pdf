@@ -12,26 +12,6 @@ interface IProps {
   itemList?: string[];
 }
 
-// const FONT = "Lato";
-
-// Font.register({
-//   family: "Lato",
-//   src: `../public/fonts/Lato-Regular.ttf`,
-// });
-// Font.register({
-//   family: "Lato Italic",
-//   src: `../public/fonts/Lato-Italic.ttf`,
-// });
-// Font.register({
-//   family: "Lato Bold",
-//   src: `../public/fonts/Lato-Bold.ttf`,
-// });
-
-// Font.register({
-//   family: FONT,
-//   src: "../public/fonts/Lato-Black.ttf",
-// });
-
 const styles = StyleSheet.create({
   page: { padding: "15px" },
   title: {
