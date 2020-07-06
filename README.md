@@ -6,7 +6,7 @@
 
 ## Second Create a Document With Components of `react-pdf`
 
-Here the <a href="https://react-pdf.org/fonts">Documentation</a>
+Here the <a href="https://react-pdf.org/components">Documentation</a>
 
 ```tsx
 import {
