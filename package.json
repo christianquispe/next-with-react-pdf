@@ -1,0 +1,26 @@
+{
+  "name": "next-with-react-pdf",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "ssh://git@github.com/christianquispe/next-with-react-pdf.git",
+  "author": "christian quispe <christianquispecamasca@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@react-pdf/renderer": "^2.0.0-beta.6",
+    "@react-pdf/styled-components": "^1.4.0",
+    "babel-plugin-styled-components": "^1.10.7",
+    "file-saver": "^2.0.2",
+    "next": "^9.4.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1"
+  },
+  "scripts": {
+    "dev": "next"
+  },
+  "devDependencies": {
+    "@types/file-saver": "^2.0.1",
+    "@types/node": "^14.0.14",
+    "@types/react": "^16.9.41",
+    "typescript": "^3.9.6"
+  }
+}
